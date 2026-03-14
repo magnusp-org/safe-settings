@@ -1,5 +1,5 @@
 export const config = {
-  runtime: 'nodejs', // optional: use 'nodejs' or omit for 'edge' (default)
+  runtime: 'bun', // optional: use 'nodejs' or omit for 'edge' (default)
 };
  
 export default function middleware(request: Request) {
