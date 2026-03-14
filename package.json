@@ -6,6 +6,7 @@
   "bugs": {
     "url": "https://github.com/magnusp-org/safe-settings/issues"
   },
+  "type": "module",
   "private": true,
   "repository": {
     "type": "git",
@@ -13,7 +14,6 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
